@@ -3,7 +3,7 @@
 Welcome to my **OIBSIP Data Science Internship Portfolio**! This repository contains all the machine learning tasks and projects I successfully completed during my internship.
 
 ## 👨‍💻 About Me
-- **Name:** Jaskaran
+- **Name:** Jaskaran Singh
 - **Role:** Data Science Intern
 - **Batch:** [Add Your Batch Here, e.g., August 2026]
 
